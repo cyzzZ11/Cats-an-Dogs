@@ -1846,6 +1846,13 @@
   "resolved" "https://registry.nlark.com/aws4/download/aws4-1.11.0.tgz"
   "version" "1.11.0"
 
+"axios@^0.24.0":
+  "integrity" "sha1-gE5voeS5xSiFAd2d/1anoJQNINY="
+  "resolved" "https://registry.npmmirror.com/axios/download/axios-0.24.0.tgz?cache=0&sync_timestamp=1635213960429&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2Faxios%2Fdownload%2Faxios-0.24.0.tgz"
+  "version" "0.24.0"
+  dependencies:
+    "follow-redirects" "^1.14.4"
+
 "babel-eslint@^10.1.0":
   "integrity" "sha1-aWjlaKkQt4+zd5zdi2rC9HmUMjI="
   "resolved" "https://registry.npmmirror.com/babel-eslint/download/babel-eslint-10.1.0.tgz"
@@ -3976,7 +3983,7 @@
     "inherits" "^2.0.3"
     "readable-stream" "^2.3.6"
 
-"follow-redirects@^1.0.0":
+"follow-redirects@^1.0.0", "follow-redirects@^1.14.4":
   "integrity" "sha1-8JpYSJgdPHcrU5Iwl3hSP42Fw4E="
   "resolved" "https://registry.npmmirror.com/follow-redirects/download/follow-redirects-1.14.5.tgz"
   "version" "1.14.5"
@@ -5846,6 +5853,11 @@
   "version" "4.0.1"
   dependencies:
     "path-key" "^3.0.0"
+
+"nprogress@^0.2.0":
+  "integrity" "sha1-y480xTIT2JVyP8urkH6UIq28r7E="
+  "resolved" "https://registry.npm.taobao.org/nprogress/download/nprogress-0.2.0.tgz"
+  "version" "0.2.0"
 
 "nth-check@^1.0.2":
   "integrity" "sha1-sr0pXDfj3VijvwcAN2Zjuk2c8Fw="
@@ -8376,10 +8388,15 @@
   "resolved" "https://registry.npm.taobao.org/vue-template-es2015-compiler/download/vue-template-es2015-compiler-1.9.1.tgz"
   "version" "1.9.1"
 
-"vue@^2 || ^3.0.0-0", "vue@^2.6.11":
+"vue@^2 || ^3.0.0-0", "vue@^2.0.0", "vue@^2.6.11":
   "integrity" "sha1-5RqlJQJQ1Wmj+606ilpofWA24jU="
   "resolved" "https://registry.npmmirror.com/vue/download/vue-2.6.14.tgz"
   "version" "2.6.14"
+
+"vuex@^3.6.2":
+  "integrity" "sha1-I2vAhqhww655lG8QfxbeWdWJXnE="
+  "resolved" "https://registry.nlark.com/vuex/download/vuex-3.6.2.tgz?cache=0&sync_timestamp=1623945192157&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fvuex%2Fdownload%2Fvuex-3.6.2.tgz"
+  "version" "3.6.2"
 
 "watchpack-chokidar2@^2.0.1":
   "integrity" "sha1-OFAAcu5uzmbzdpk2lQ6hdxvhyVc="
